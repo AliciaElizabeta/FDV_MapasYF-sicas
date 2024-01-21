@@ -32,3 +32,12 @@ Se han empleado los siguientes assets:
 ![Gif24](gifs/4ComportamientoFisico.gif)
 ### Incluye dos capas que asignes a diferentes tipos de objetos y que permita evitar colisiones entre ellos.
 ![Gif25](gifs/5Capas.gif)
+
+## Punto 3 : Tilemap y Recolección
+
+### Crear un tilemap
+![Gif31](gifs/1Tilemap.gif)
+### Plataforma
+![Gif32](gifs/2Plataforma.gif)
+### Recolección
+![Gif33](gifs/3Recolección.gif)
