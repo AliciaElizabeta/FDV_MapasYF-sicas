@@ -1,4 +1,4 @@
-# FDV_MapasYF-sicas
+# FDV_MapasYFisicas
 
 Se han empleado los siguientes assets:
  - Free Pixel Space Platform Pack
