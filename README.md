@@ -20,3 +20,15 @@ Se han empleado los siguientes assets:
 ![Gif6](gifs/5UnoEsTriggerAmbosFisicas.gif)
 ### Uno de los objetos es cinemático.
 ![Gif7](gifs/7Kinematico.gif)
+
+
+## Punto 2 : Aplicar Restricciones
+
+### Objeto estático que ejerce de barrera infranqueable | Zona en la que los objetos que caen en ella son impulsados hacia adelante
+![Gif21](gifs/1y2BarreraEImpulso.gif)
+### Objeto que es arrastrado por otro a una distancia fija
+![Gif23](gifs/3ArrastrarADistancia.gif)
+### Objeto que al colisionar con otros sigue un comportamiento totalmente físico.
+![Gif24](gifs/4ComportamientoFisico.gif)
+### Incluye dos capas que asignes a diferentes tipos de objetos y que permita evitar colisiones entre ellos.
+![Gif25](gifs/5Capas.gif)
