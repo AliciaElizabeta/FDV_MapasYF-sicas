@@ -4,8 +4,19 @@ Se han empleado los siguientes assets:
  - Free Pixel Space Platform Pack
  - PolyMeshWorld
 
-## Punto 1 : Encarar a un objetivo y moverse hacia el
-Para realizar esto se ha creado un script llamado "LookAndForward" que primero mediante un LookAt() se encara hacia el objetivo
-para luego hacer una translación.
+## Punto 1 : Crear una escena donde ver las siguientes situaciones
 
-![GifResultante](gif/P1.gif)
+### Ninguno de los objetos será físico.
+![Gif1](gifs/P1.gif)
+### Un objeto tiene físicas y el otro no.
+![Gif2](gifs/P1.gif)
+### Ambos objetos tienen físicas.
+![Gif3](gifs/P1.gif)
+### Ambos objetos tienen físcas y uno de ellos tiene 10 veces más masa que el otro.
+![Gif4](gifs/P1.gif)
+### Un objeto tiene físicas y el otro es IsTrigger.
+![Gif5](gifs/P1.gif)
+### Ambos objetos son físicos y uno de ellos está marcado como IsTrigger.
+![Gif6](gifs/P1.gif)
+### Uno de los objetos es cinemático.
+![Gif7](gifs/P1.gif)
